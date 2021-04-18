@@ -53,7 +53,7 @@
 		<text name="ad_unload"								text="AD Выгрузка" />
 		<text name="wear"									text="Износ" />
 		<text name="motor"									text="Двигатель" />
-		<text name="turnedOn"								text="Ф-ции агрегата" />
+		<text name="turnedOn"								text="Функции агрегата" />
 		<text name="lights"									text="Фары" />
 		<text name="speed"									text="Скорость" />
 		<text name="fillLevel"								text="Ур. заполнения" />
@@ -72,7 +72,7 @@
 		<text name="showImgMaxImp"							text="Макс. изображений агрегатов" />
 		<text name="showInfoMaxImpl"						text="Макс. количество инструментов в  Infobox" />
 		<text name="useTwoColoredList"						text="Использовать два чередующихся цвета для списка транспортных средств" />
-		<text name="isLowered"								text="В раб. положении" />
+		<text name="isLowered"								text="В рабочем положении" />
 		<text name="turnedOnImplement"						text="Включенный" />	
 		<text name="useVeExTabOrder"						text="Использовать упорядоченный список VehicleExplorers для табуляции" />
 		<text name="field"									text="Поле" />
